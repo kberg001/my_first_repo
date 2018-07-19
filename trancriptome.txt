@@ -1,1 +1,4 @@
 Step 1: Map reads with tophat
+Step 2: Assemble trancripts with cufflinks.
+Step 3: Final transcriptome assemby with cuffmerge
+
